@@ -1,1 +1,1 @@
-# finance_reactnative
+# Finance Project with React Native
